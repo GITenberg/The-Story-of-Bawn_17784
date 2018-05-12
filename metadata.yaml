@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7598
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Tynan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17784#The-Story-of-Bawn
 gutenberg_issued: '2006-02-17'
 gutenberg_type: Text
 identifiers:
